@@ -1,7 +1,7 @@
 
 # **FitTrack Pro - Exercise Tracker Web App**
 
-**FitTrack Pro** is a web app that allows users to log their exercise activities, track the time spent on workouts, and calculate the calories burned based on the exercise and duration. Built using **JavaScript**, **HTML**, and **CSS**, it aims to provide a simple, intuitive way for users to monitor their fitness journey.
+**FitTrack Pro** is a web app that allows users to log their exercise activities, track the time spent on workouts, and calculate the calories burned based on the exercise and duration. This web app developed as an implementation of classroom knowledge and skills in **JavaScript**, **HTML**, and **CSS** it aims to provide a simple, intuitive way for users to monitor their fitness journey.
 
 ## **Screenshots**
 Here’s a preview of what the app looks like:
